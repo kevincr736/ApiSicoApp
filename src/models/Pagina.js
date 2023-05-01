@@ -1,3 +1,4 @@
+/* git reabse -i head-1*/ 
 const mongoose = require("mongoose");
 const PaginaSchema = mongoose.Schema({
 
